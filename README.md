@@ -1,2 +1,2 @@
 # hello-world
-Scratch
+my first repository
